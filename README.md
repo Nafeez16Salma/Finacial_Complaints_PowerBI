@@ -15,7 +15,7 @@ Developed Financial Consumer Complaints Dashboard which tracks all complaints an
 
       It is critical to analyses customer complaint data to determine the root reasons of consumer unhappiness 
       and make necessary modifications. By analyzing, how intelligent computing may be utilized to better understand 
-      and enhance public services through analysis using Tableau Interactive Dashboard.
+      and enhance public services through analysis using Power BI Interactive Dashboard.
 
       As the date is changing, financial consumer complaints dashboard will update automatically and enable us to 
       visualize your data accordingly. This Dashboard based on Financial Complaints taken by consumers to determine 
